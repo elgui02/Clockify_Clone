@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.298a85e5.css",
+    "main.js": "/static/js/main.ba08d030.js",
+    "static/media/FreeForever.PNG": "/static/media/FreeForever.675684dc226ccc4a9804.PNG",
+    "static/media/Login-Image.jpg": "/static/media/Login-Image.4cfaf6972e16ab606e83.jpg",
+    "static/media/J2.jpg": "/static/media/J2.53febc1ec1d5435a4776.jpg",
+    "static/media/J1.jpg": "/static/media/J1.7b615836735b1a67df10.jpg",
+    "static/media/clockify-logo.jpg": "/static/media/clockify-logo.934f69e3914d1ad422b1.jpg",
+    "static/media/J3.jpg": "/static/media/J3.84d701cb4433cc0b22f6.jpg",
+    "static/media/J4.jpg": "/static/media/J4.a49b4f5d38ae1be2a275.jpg",
+    "static/media/firefox-store.svg": "/static/media/firefox-store.d1395c3a118d783c203a043f0894b06d.svg",
+    "static/media/chrome-store.svg": "/static/media/chrome-store.f4c5d42279d11a29f41138e231eba400.svg",
+    "static/media/download-app-windows.svg": "/static/media/download-app-windows.c2f2a21fff63d892a67aabc9dcf16c85.svg",
+    "static/media/play-store-android.svg": "/static/media/play-store-android.d07e348e8be4cc37f0ca4f224e0245b9.svg",
+    "static/media/download-app-linux.svg": "/static/media/download-app-linux.eeec4ae88f8a4aaca08543b9b6c9df42.svg",
+    "static/media/app-store-ios.svg": "/static/media/app-store-ios.9184410174c6a56fc790543f69e2c3ea.svg",
+    "static/media/download-app-mac.svg": "/static/media/download-app-mac.b22abf9249c01eb3f7463fd929151226.svg",
+    "static/media/signed-up-icon.svg": "/static/media/signed-up-icon.1eb843c877de6aa0c405d7b7ec2eb978.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.f98ad78b275856b1593ffc628345ec2e.svg"
+  },
+  "entrypoints": [
+    "static/css/main.298a85e5.css",
+    "static/js/main.ba08d030.js"
+  ]
+}
