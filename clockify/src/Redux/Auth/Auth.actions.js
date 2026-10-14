@@ -2,7 +2,7 @@ import axios from "axios";
 import { error, loading, register } from "./Auth.types";
 import { toast } from "react-toastify";
 
-const API_URL = `https://clcok2.onrender.com/api/users/`;
+const API_URL = `/api/users/`;
 
 const toastOptions = {
   position: "bottom-left",
